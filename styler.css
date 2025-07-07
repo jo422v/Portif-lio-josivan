@@ -1,0 +1,210 @@
+/* Reset básico e estilo global */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+/* Cabeçalho com navegação */
+header {
+  background-color: #004080;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+  background-color: white;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+/* Imagem de formação */
+#formacao img {
+  margin-top: 10px;
+  border-radius: 5px;
+  max-width: 100%;
+}
+
+/* Formulário de contato */
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input, textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #004080;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #003366;
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #ddd;
+}
+/* Reset básico e estilo global */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+/* Cabeçalho com navegação */
+header {
+  background-color: #397abb;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+  background-color: white;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+/* Imagem de formação */
+#formacao img {
+  margin-top: 10px;
+  border-radius: 5px;
+  max-width: 100%;
+}
+
+/* Formulário de contato */
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input, textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #004080;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #003366;
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #ddd;
+}
+/* Reset básico e estilo global */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+/* Cabeçalho com navegação */
+header {
+  background-color: #004080;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+  background-color: white;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+/* Imagem de formação */
+#formacao img {
+  margin-top: 5px;
+  border-radius: 5px;
+  max-width: 100%;
+}
+
+/* Formulário de contato */
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input, textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #004080;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #003366;
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #ddd;
+}
